@@ -1,0 +1,6 @@
+com/example/cores/controller/UserController.class
+com/example/cores/CoresApplication.class
+com/example/cores/repository/UserRepository.class
+com/example/cores/service/UserService.class
+com/example/cores/model/User.class
+com/example/cores/config/AppConfig.class
